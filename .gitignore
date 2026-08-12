@@ -1,0 +1,10 @@
+# Jupyter temporary files
+.virtual_documents/
+.ipynb_checkpoints/
+
+# Anaconda generated files
+anaconda_projects/
+
+# Python cache
+__pycache__/
+*.pyc
