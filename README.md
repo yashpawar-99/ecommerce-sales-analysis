@@ -57,7 +57,6 @@ ecommerce-sales-analysis/
 ```
 
 
-```markdown
 ## Project Outcome
 
 This project demonstrates the process of performing exploratory data analysis on an e-commerce dataset, from understanding the raw data to generating visualizations and extracting actionable business insights.
